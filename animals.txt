@@ -1,1 +1,6 @@
 animals
+giraffe
+elephant
+lion
+beetle
+boar
