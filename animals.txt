@@ -13,3 +13,7 @@ whale
 bat
 dolphin
 goat
+toad
+frog
+salamander
+newt
