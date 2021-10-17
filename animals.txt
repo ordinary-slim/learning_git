@@ -4,3 +4,7 @@ elephant
 lion
 beetle
 boar
+cat
+dog
+ant
+pterodactyl
