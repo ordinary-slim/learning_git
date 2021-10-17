@@ -8,3 +8,8 @@ cat
 dog
 ant
 pterodactyl
+rat
+whale
+bat
+dolphin
+goat
