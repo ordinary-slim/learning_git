@@ -8,3 +8,7 @@ cat
 dog
 ant
 pterodactyl
+toad
+frog
+salamander
+newt
